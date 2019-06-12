@@ -3,4 +3,4 @@ puts "What a nutritious meal!"
 puts "A plate of #{protein} with #{veg1} and #{veg2}"
 end
 protein = "meat" 
-meal_choice ("broccoli", "")
+meal_choice ("broccoli", "macaroni", protein)
